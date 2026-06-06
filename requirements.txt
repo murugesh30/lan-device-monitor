@@ -1,0 +1,15 @@
+The technologies used in this project are:
+
+Python as the programming language.
+
+Scapy for ARP-based network discovery.
+
+SQLite for data storage.
+
+Socket programming for hostname resolution.
+
+Psutil and ipaddress for automatic network detection.
+
+Visual Studio Code as the development environment.
+
+GitHub for version control and project submission.
