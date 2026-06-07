@@ -4,9 +4,6 @@ import psutil
 import ipaddress
 
 
-import psutil
-import ipaddress
-
 def get_network():
 
     for interface, addresses in psutil.net_if_addrs().items():
