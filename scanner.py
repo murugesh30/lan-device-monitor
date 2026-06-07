@@ -34,9 +34,7 @@ def get_network():
 
 
 def scan_network():
-    """
-    Scan the detected LAN network using ARP.
-    """
+    
 
     network = get_network()
 
